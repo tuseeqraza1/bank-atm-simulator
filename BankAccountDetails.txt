@@ -1,4 +1,0 @@
-Admin		Admin		30		Admin		987654321		1000000.0		Pakistan		null		
-Tuseeq		Manzoor		20		12345		123456789		1042024.0		Islamabad		null		
-Raza		Ahmad		22		12345		123456789		1028500.0		Islamabad		null		
-Humza		Jameel		20		12345		123456789		1000000.0		Karachi		null		
